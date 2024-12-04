@@ -2,11 +2,16 @@
   "name": "zer-utils",
   "version": "1.0.0",
   "description": "a simple util lib for developers!!!",
+  "author": "zhiller",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhillerDev/FrontendLibs.git"
+  },
   "keywords": [],
-  "author": "zhiller",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/monatheoctocat/my_package"
 }
