@@ -3,7 +3,20 @@
   "version": "1.0.0",
   "description": "a simple util lib for developers!!!",
   "author": "zhiller",
-  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/ZhillerDev/FrontendLibs/zer-utils",
+  "keywords": [
+    "任意JS开发环境",
+    "工具类",
+    "zer-utils",
+    "utils",
+    "vue3",
+    "es6",
+    "es5",
+    "cjs",
+    "commonjs"
+  ],
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +24,9 @@
     "type": "git",
     "url": "https://github.com/ZhillerDev/FrontendLibs.git"
   },
-  "keywords": [],
-  "license": "MIT",
-  "homepage": "https://github.com/monatheoctocat/my_package"
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "private": false
 }
